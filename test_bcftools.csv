@@ -1,0 +1,2 @@
+sample_name,vcf_file
+chr22-hapgen,s3://lifebit-featured-datasets/IGV/vcf/chr22-simulated_hapgen-updated.vcf.gz

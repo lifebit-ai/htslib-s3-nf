@@ -1,0 +1,2 @@
+sample_name,bam_file
+chr10,s3://igv.org.test/csi_test/chr10p.bam
